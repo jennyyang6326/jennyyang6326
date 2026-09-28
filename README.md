@@ -1,4 +1,4 @@
-## Hi, here is Jenny 👋
+# Here’s Jenny! 👋
 
 I enjoy building clear, useful web experiences with thoughtful interfaces.
 
