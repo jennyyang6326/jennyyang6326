@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jenny 👋
 
-<!--
-**jennyyang6326/jennyyang6326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building clear, useful web experiences with thoughtful interfaces.
 
-Here are some ideas to get you started:
+## 🏁 Featured Project: Grid Timezone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Grid Timezone](https://www.gridtimezone.com/) is a focused 2026 Formula 1 calendar that provides:
+
+- Session times converted to the viewer's selected timezone
+- Live countdowns for practice, Sprint, qualifying and races
+- Previous race results and concise weekend recaps
+- Search and navigation across every Grand Prix
+- Responsive light and dark interfaces
+
+**Visit the website:** [gridtimezone.com](https://www.gridtimezone.com/)
